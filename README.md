@@ -48,7 +48,7 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
    
    -DejaVuSans-BoldOblique.ttf
 
-##Usage
+## Usage
    1. Start the application:
    
       ```bash
@@ -61,27 +61,27 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
    
    4. View and download the generated report
 
-##Project Structure
-   text
-   twitter-analysis-tool/
-   ├── app.py                # Main application
-   ├── scraper.py            # Twitter scraping functions
-   ├── analyzer.py           # Tweet analysis
-   ├── report_generator.py   # PDF report generation
-   ├── requirements.txt      # Dependencies
-   ├── .gitignore
-   ├── README.md
-   ├── fonts/                # Font files for PDF
-   ├── static/               # CSS/JS assets
-   │   ├── styles.css
-   │   └── app.js
-   ├── templates/            # HTML templates
-   │   └── index.html
-   ├── data/                 # Scraped data (gitignored)
-   │   └── csv/
-   └── reports/              # Generated reports (gitignored)
+## Project Structure
+      text
+      twitter-analysis-tool/
+      ├── app.py                # Main application
+      ├── scraper.py            # Twitter scraping functions
+      ├── analyzer.py           # Tweet analysis
+      ├── report_generator.py   # PDF report generation
+      ├── requirements.txt      # Dependencies
+      ├── .gitignore
+      ├── README.md
+      ├── fonts/                # Font files for PDF
+      ├── static/               # CSS/JS assets
+      │   ├── styles.css
+      │   └── app.js
+      ├── templates/            # HTML templates
+      │   └── index.html
+      ├── data/                 # Scraped data (gitignored)
+      │   └── csv/
+      └── reports/              # Generated reports (gitignored)
 
-##Dependencies
+## Dependencies
 Flask (web framework)
 
 Selenium (web scraping)
@@ -94,22 +94,22 @@ TextBlob (sentiment analysis)
 
 webdriver-manager (ChromeDriver management)
 
-##Contributing
+## Contributing
 Contributions are welcome! Please follow these steps:
 
-Fork the repository
+- Fork the repository
 
-Create your feature branch (git checkout -b feature/your-feature)
+- Create your feature branch (git checkout -b feature/your-feature)
 
-Commit your changes (git commit -m 'Add some feature')
+- Commit your changes (git commit -m 'Add some feature')
 
-Push to the branch (git push origin feature/your-feature)
+- Push to the branch (git push origin feature/your-feature)
 
-Open a pull request
+- Open a pull request
 
-##License
+## License
 This project is licensed under the MIT License - see LICENSE file for details.
 
-##Disclaimer
+## Disclaimer
 This tool is for educational purposes only. Use it responsibly and respect Twitter's Terms of Service. The developers are not responsible for any misuse of this tool.
 
