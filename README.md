@@ -27,39 +27,39 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
 
 2. Install dependencies:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+     ```bash
+     pip install -r requirements.txt
+     ```
 3. Download ChromeDriver:
 
-Automatically handled by webdriver-manager
+   Automatically handled by webdriver-manager
 
 4. Install fonts:
 
--Download DejaVu Sans fonts from dejavu-fonts.github.io
+   -Download DejaVu Sans fonts from dejavu-fonts.github.io
 
--Place these 4 files in fonts/ directory:
+   -Place these 4 files in fonts/ directory:
 
---DejaVuSans.ttf
-
---DejaVuSans-Bold.ttf
-
---DejaVuSans-Oblique.ttf
-
---DejaVuSans-BoldOblique.ttf
+      -DejaVuSans.ttf
+      
+      -DejaVuSans-Bold.ttf
+      
+      -DejaVuSans-Oblique.ttf
+      
+      -DejaVuSans-BoldOblique.ttf
 
 ##Usage
-Start the application:
-
-bash
-python app.py
-Open your browser to:
-
-text
-http://localhost:5000
-Enter a Twitter username and click "Analyze"
-
-View and download the generated report
+   1. Start the application:
+   
+            ```bash
+            python app.py
+  2.  Open your browser to:
+   
+            text
+            http://localhost:5000
+   3. Enter a Twitter username and click "Analyze"
+   
+   4. View and download the generated report
 
 ##Project Structure
 text
