@@ -36,50 +36,50 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
 
 4. Install fonts:
 
-   -Download DejaVu Sans fonts from dejavu-fonts.github.io
+   Download DejaVu Sans fonts from dejavu-fonts.github.io
 
-   -Place these 4 files in fonts/ directory:
+   Place these 4 files in fonts/ directory:
 
-      -DejaVuSans.ttf
-      
-      -DejaVuSans-Bold.ttf
-      
-      -DejaVuSans-Oblique.ttf
-      
-      -DejaVuSans-BoldOblique.ttf
+   -DejaVuSans.ttf
+   
+   -DejaVuSans-Bold.ttf
+   
+   -DejaVuSans-Oblique.ttf
+   
+   -DejaVuSans-BoldOblique.ttf
 
 ##Usage
    1. Start the application:
    
-            ```bash
-            python app.py
+      ```bash
+      python app.py
   2.  Open your browser to:
    
-            text
-            http://localhost:5000
+     text
+     http://localhost:5000
    3. Enter a Twitter username and click "Analyze"
    
    4. View and download the generated report
 
 ##Project Structure
-text
-twitter-analysis-tool/
-├── app.py                # Main application
-├── scraper.py            # Twitter scraping functions
-├── analyzer.py           # Tweet analysis
-├── report_generator.py   # PDF report generation
-├── requirements.txt      # Dependencies
-├── .gitignore
-├── README.md
-├── fonts/                # Font files for PDF
-├── static/               # CSS/JS assets
-│   ├── styles.css
-│   └── app.js
-├── templates/            # HTML templates
-│   └── index.html
-├── data/                 # Scraped data (gitignored)
-│   └── csv/
-└── reports/              # Generated reports (gitignored)
+   text
+   twitter-analysis-tool/
+   ├── app.py                # Main application
+   ├── scraper.py            # Twitter scraping functions
+   ├── analyzer.py           # Tweet analysis
+   ├── report_generator.py   # PDF report generation
+   ├── requirements.txt      # Dependencies
+   ├── .gitignore
+   ├── README.md
+   ├── fonts/                # Font files for PDF
+   ├── static/               # CSS/JS assets
+   │   ├── styles.css
+   │   └── app.js
+   ├── templates/            # HTML templates
+   │   └── index.html
+   ├── data/                 # Scraped data (gitignored)
+   │   └── csv/
+   └── reports/              # Generated reports (gitignored)
 
 ##Dependencies
 Flask (web framework)
