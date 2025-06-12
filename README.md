@@ -21,7 +21,7 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   git clone https://github.com/AKPrajapati9211/twitter-analysis-tool.git
    cd YOUR-REPO-NAME
 
 
@@ -40,13 +40,13 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
 
    Place these 4 files in fonts/ directory:
 
-   -DejaVuSans.ttf
+   - DejaVuSans.ttf
    
-   -DejaVuSans-Bold.ttf
+   - DejaVuSans-Bold.ttf
    
-   -DejaVuSans-Oblique.ttf
+   - DejaVuSans-Oblique.ttf
    
-   -DejaVuSans-BoldOblique.ttf
+   - DejaVuSans-BoldOblique.ttf
 
 ## Usage
    1. Start the application:
@@ -55,14 +55,12 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
       python app.py
   2.  Open your browser to:
    
-     text
      http://localhost:5000
    3. Enter a Twitter username and click "Analyze"
    
    4. View and download the generated report
 
 ## Project Structure
-      text
       twitter-analysis-tool/
       ├── app.py                # Main application
       ├── scraper.py            # Twitter scraping functions
@@ -82,17 +80,17 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
       └── reports/              # Generated reports (gitignored)
 
 ## Dependencies
-Flask (web framework)
+- Flask (web framework)
 
-Selenium (web scraping)
+- Selenium (web scraping)
 
-pandas (data analysis)
+- pandas (data analysis)
 
-fpdf2 (PDF generation)
+- fpdf2 (PDF generation)
 
-TextBlob (sentiment analysis)
+- TextBlob (sentiment analysis)
 
-webdriver-manager (ChromeDriver management)
+- webdriver-manager (ChromeDriver management)
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
