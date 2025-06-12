@@ -1,0 +1,597 @@
+Keyword,Category
+attack,General Threats
+bomb,General Threats
+gun,General Threats
+kill,General Threats
+explosive,General Threats
+terror,General Threats
+target,General Threats
+threat,General Threats
+execute,General Threats
+massacre,General Threats
+shooter,General Threats
+hijack,General Threats
+firearm,General Threats
+ammo,General Threats
+detonate,General Threats
+ambush,General Threats
+bloodshed,General Threats
+casualties,General Threats
+weapon,General Threats
+assault,General Threats
+undercover,General Threats
+assassination,General Threats
+isis,Terrorism & Extremism
+terrorist,Terrorism & Extremism
+terrorists,Terrorism & Extremism
+al-qaeda,Terrorism & Extremism
+jihad,Terrorism & Extremism
+mujahideen,Terrorism & Extremism
+infidel,Terrorism & Extremism
+radical,Terrorism & Extremism
+taliban,Terrorism & Extremism
+extremist,Terrorism & Extremism
+martyr,Terrorism & Extremism
+holy war,Terrorism & Extremism
+suicide bomber,Terrorism & Extremism
+recruitment,Terrorism & Extremism
+lone wolf,Terrorism & Extremism
+caliphate,Terrorism & Extremism
+sharia,Terrorism & Extremism
+bomb vest,Terrorism & Extremism
+beheading,Terrorism & Extremism
+fatwa,Terrorism & Extremism
+wahhabi,Terrorism & Extremism
+detonation,Terrorism & Extremism
+spyware,Surveillance & Hacktivism
+keylogger,Surveillance & Hacktivism
+malware,Surveillance & Hacktivism
+trojan,Surveillance & Hacktivism
+rat,Surveillance & Hacktivism
+backdoor,Surveillance & Hacktivism
+phishing,Surveillance & Hacktivism
+breach,Surveillance & Hacktivism
+exploit,Surveillance & Hacktivism
+keylogging,Surveillance & Hacktivism
+packet sniffing,Surveillance & Hacktivism
+dns spoofing,Surveillance & Hacktivism
+doxxing,Surveillance & Hacktivism
+anonymous,Surveillance & Hacktivism
+hacktivist,Surveillance & Hacktivism
+brute force,Surveillance & Hacktivism
+credential stuffing,Surveillance & Hacktivism
+data exfiltration,Surveillance & Hacktivism
+zero-day,Surveillance & Hacktivism
+dark web,Surveillance & Hacktivism
+tnt,Bomb & Explosives
+ied,Bomb & Explosives
+c4,Bomb & Explosives
+pipe bomb,Bomb & Explosives
+fertilizer bomb,Bomb & Explosives
+blasting cap,Bomb & Explosives
+timer,Bomb & Explosives
+detonator,Bomb & Explosives
+remote detonation,Bomb & Explosives
+pressure cooker bomb,Bomb & Explosives
+nitro,Bomb & Explosives
+dynamite,Bomb & Explosives
+firebomb,Bomb & Explosives
+molotov cocktail,Bomb & Explosives
+incendiary,Bomb & Explosives
+anthrax,Biological/Chemical Threats
+ricin,Biological/Chemical Threats
+sarin,Biological/Chemical Threats
+nerve gas,Biological/Chemical Threats
+cyanide,Biological/Chemical Threats
+botulinum,Biological/Chemical Threats
+vx gas,Biological/Chemical Threats
+mustard gas,Biological/Chemical Threats
+bio-weapon,Biological/Chemical Threats
+chemical warfare,Biological/Chemical Threats
+dirty bomb,Biological/Chemical Threats
+radiation,Biological/Chemical Threats
+nuclear,Biological/Chemical Threats
+fallout,Biological/Chemical Threats
+plutonium,Biological/Chemical Threats
+ransomware,Cybercrime
+sql injection,Cybercrime
+cross-site scripting,Cybercrime
+cryptojacking,Cybercrime
+data leak,Cybercrime
+botnet,Cybercrime
+spybot,Cybercrime
+darknet,Cybercrime
+carding,Cybercrime
+skimming,Cybercrime
+rootkit,Cybercrime
+worm,Cybercrime
+virus,Cybercrime
+payload,Cybercrime
+cyberattack,Cybercrime
+money laundering,Fraud & Scams
+fake id,Fraud & Scams
+wire fraud,Fraud & Scams
+credit card fraud,Fraud & Scams
+skim,Fraud & Scams
+clone card,Fraud & Scams
+black market,Fraud & Scams
+counterfeit,Fraud & Scams
+ponzi scheme,Fraud & Scams
+phishing email,Fraud & Scams
+gift card scam,Fraud & Scams
+419 scam,Fraud & Scams
+check fraud,Fraud & Scams
+bitcoin scam,Fraud & Scams
+impersonation,Fraud & Scams
+cocaine,Drugs & Narcotics
+heroin,Drugs & Narcotics
+meth,Drugs & Narcotics
+weed,Drugs & Narcotics
+ecstasy,Drugs & Narcotics
+lsd,Drugs & Narcotics
+opium,Drugs & Narcotics
+mdma,Drugs & Narcotics
+crack,Drugs & Narcotics
+xanax,Drugs & Narcotics
+fentanyl,Drugs & Narcotics
+oxy,Drugs & Narcotics
+ghb,Drugs & Narcotics
+narcotic,Drugs & Narcotics
+ketamine,Drugs & Narcotics
+dmt,Drugs & Narcotics
+molly,Drugs & Narcotics
+pcp,Drugs & Narcotics
+dealer,Drugs & Narcotics
+cartel,Drugs & Narcotics
+escort,Human Trafficking
+underage,Human Trafficking
+slave,Human Trafficking
+pimp,Human Trafficking
+brothel,Human Trafficking
+victim,Human Trafficking
+abduction,Human Trafficking
+missing,Human Trafficking
+exploitation,Human Trafficking
+grooming,Human Trafficking
+trafficked,Human Trafficking
+buyer,Human Trafficking
+seller,Human Trafficking
+trapped,Human Trafficking
+child porn,Human Trafficking
+pornhub,Human Trafficking
+onlyfans,Human Trafficking
+solicitation,Human Trafficking
+kidnap,Human Trafficking
+pedophile,Human Trafficking
+mass shooting,Violent Intent
+i will kill,Violent Intent
+they all must die,Violent Intent
+shoot the place up,Violent Intent
+burn it all,Violent Intent
+let’s riot,Violent Intent
+destroy it,Violent Intent
+hate crime,Violent Intent
+lynch,Violent Intent
+crush them,Violent Intent
+purge,Violent Intent
+kill them all,Violent Intent
+slaughter,Violent Intent
+burn alive,Violent Intent
+annihilate,Violent Intent
+execution,Violent Intent
+genocide,Violent Intent
+eliminate,Violent Intent
+exterminate,Violent Intent
+no mercy,Violent Intent
+sacrifice,Cults & Occult
+devil worship,Cults & Occult
+blood ritual,Cults & Occult
+demonic,Cults & Occult
+occult,Cults & Occult
+hex,Cults & Occult
+cult,Cults & Occult
+possession,Cults & Occult
+satan,Cults & Occult
+ritualistic,Cults & Occult
+seance,Cults & Occult
+summon,Cults & Occult
+witchcraft,Cults & Occult
+necromancy,Cults & Occult
+voodoo,Cults & Occult
+i hate myself,Self-Harm & Psychological
+end it all,Self-Harm & Psychological
+voices in my head,Self-Harm & Psychological
+i want to die,Self-Harm & Psychological
+slit my wrists,Self-Harm & Psychological
+depression,Self-Harm & Psychological
+suicide,Self-Harm & Psychological
+self-harm,Self-Harm & Psychological
+burn myself,Self-Harm & Psychological
+no reason to live,Self-Harm & Psychological
+everyone hates me,Self-Harm & Psychological
+i’ll make them pay,Self-Harm & Psychological
+die with me,Self-Harm & Psychological
+go out in a blaze,Self-Harm & Psychological
+take them with me,Self-Harm & Psychological
+ar-15,Weapons Specific
+glock,Weapons Specific
+ak-47,Weapons Specific
+sniper,Weapons Specific
+knife,Weapons Specific
+machete,Weapons Specific
+grenade,Weapons Specific
+silencer,Weapons Specific
+bulletproof,Weapons Specific
+shotgun,Weapons Specific
+bayonet,Weapons Specific
+carbine,Weapons Specific
+launcher,Weapons Specific
+semi-automatic,Weapons Specific
+double tap,Weapons Specific
+don’t tell anyone,Communication Phrases
+this stays between us,Communication Phrases
+delete this after reading,Communication Phrases
+dm me for details,Communication Phrases
+private server,Communication Phrases
+use vpn,Communication Phrases
+they’re watching,Communication Phrases
+encrypted chat,Communication Phrases
+burner phone,Communication Phrases
+hide your ip,Communication Phrases
+no logs,Communication Phrases
+deep web,Communication Phrases
+end-to-end,Communication Phrases
+secure drop,Communication Phrases
+silent group,Communication Phrases
+government is the enemy,Anti-Government
+overthrow them,Anti-Government
+they will fall,Anti-Government
+revolution is coming,Anti-Government
+rise up,Anti-Government
+freedom fighters,Anti-Government
+patriots will rise,Anti-Government
+resist the system,Anti-Government
+deep state,Anti-Government
+new world order,Anti-Government
+civil war,Anti-Government
+anti-vax militia,Anti-Government
+agenda 21,Anti-Government
+martial law,Anti-Government
+sovereign citizen,Anti-Government
+party favors,Slang & Code Words
+candy,Slang & Code Words
+shipment,Slang & Code Words
+package,Slang & Code Words
+rent,Slang & Code Words
+date,Slang & Code Words
+pizza,Slang & Code Words
+cheese pizza,Slang & Code Words
+sauce,Slang & Code Words
+plug,Slang & Code Words
+popcorn,Slang & Code Words
+cake,Slang & Code Words
+trees,Slang & Code Words
+blow,Slang & Code Words
+molly,Slang & Code Words
+i know your secrets,Blackmail & Threats
+pay me or else,Blackmail & Threats
+i have your nudes,Blackmail & Threats
+expose you,Blackmail & Threats
+do this or suffer,Blackmail & Threats
+leak your info,Blackmail & Threats
+i have your ip,Blackmail & Threats
+you’ll regret this,Blackmail & Threats
+send bitcoin,Blackmail & Threats
+i’ll destroy your life,Blackmail & Threats
+incel,Miscellaneous
+hate group,Miscellaneous
+purification,Miscellaneous
+manifesto,Miscellaneous
+radicalize,Miscellaneous
+convert,Miscellaneous
+indoctrinate,Miscellaneous
+paramilitary,Miscellaneous
+militia,Miscellaneous
+anti-semitic,Miscellaneous
+racist,Miscellaneous
+fighting,Miscellaneous
+thieves,Miscellaneous
+thief,Miscellaneous
+snatcher,Miscellaneous
+security,Miscellaneous
+vigilante,Miscellaneous 
+homophobic,Miscellaneous
+extremism,Miscellaneous
+sex trafficking,Miscellaneous
+anon group,Miscellaneous
+burner account,Miscellaneous
+off the grid,Miscellaneous
+red pill,Miscellaneous
+weaponize,Miscellaneous
+kill list,Miscellaneous
+fight,Fighting_Words
+battle,Fighting_Words
+war,Fighting_Words
+combat,Fighting_Words
+brawl,Fighting_Words
+clash,Fighting_Words
+skirmish,Fighting_Words
+assault,Fighting_Words
+attack,Fighting_Words
+strike,Fighting_Words
+violence,Fighting_Words
+duel,Fighting_Words
+fray,Fighting_Words
+scuffle,Fighting_Words
+conflict,Fighting_Words
+melee,Fighting_Words
+ambush,Fighting_Words
+blow,Fighting_Words
+retaliate,Fighting_Words
+punch,Fighting_Words
+kick,Fighting_Words
+hit,Fighting_Words
+slap,Fighting_Words
+smash,Fighting_Words
+grapple,Fighting_Words
+wrestle,Fighting_Words
+resist,Fighting_Words
+counter,Fighting_Words
+defend,Fighting_Words
+aggression,Fighting_Words
+riot,Fighting_Words
+mutiny,Fighting_Words
+uprising,Fighting_Words
+revolt,Fighting_Words
+rebel,Fighting_Words
+rage,Fighting_Words
+hostility,Fighting_Words
+turmoil,Fighting_Words
+onslaught,Fighting_Words
+invade,Fighting_Words
+threaten,Fighting_Words
+confront,Fighting_Words
+storm,Fighting_Words
+charge,Fighting_Words
+choke,Fighting_Words
+stab,Fighting_Words
+shoot,Fighting_Words
+bomb,Fighting_Words
+explosion,Fighting_Words
+gunfire,Fighting_Words
+gun,Gun_Related_Words
+pistol,Gun_Related_Words
+revolver,Gun_Related_Words
+rifle,Gun_Related_Words
+shotgun,Gun_Related_Words
+firearm,Gun_Related_Words
+handgun,Gun_Related_Words
+sniper,Gun_Related_Words
+assault rifle,Gun_Related_Words
+machine gun,Gun_Related_Words
+ak-47,Gun_Related_Words
+ar-15,Gun_Related_Words
+bazooka,Gun_Related_Words
+carbine,Gun_Related_Words
+musket,Gun_Related_Words
+semi-automatic,Gun_Related_Words
+automatic,Gun_Related_Words
+trigger,Gun_Related_Words
+bullet,Gun_Related_Words
+ammo,Gun_Related_Words
+magazine,Gun_Related_Words
+cartridge,Gun_Related_Words
+gunpowder,Gun_Related_Words
+silencer,Gun_Related_Words
+scope,Gun_Related_Words
+barrel,Gun_Related_Words
+holster,Gun_Related_Words
+loaded,Gun_Related_Words
+unloaded,Gun_Related_Words
+firing,Gun_Related_Words
+gunfire,Gun_Related_Words
+shoot,Gun_Related_Words
+shooting,Gun_Related_Words
+shooter,Gun_Related_Words
+target,Gun_Related_Words
+aim,Gun_Related_Words
+lock and load,Gun_Related_Words
+double barrel,Gun_Related_Words
+rifling,Gun_Related_Words
+shell,Gun_Related_Words
+spent casing,Gun_Related_Words
+gunshot,Gun_Related_Words
+recoil,Gun_Related_Words
+range,Gun_Related_Words
+caliber,Gun_Related_Words
+ballistics,Gun_Related_Words
+suppressor,Gun_Related_Words
+stock,Gun_Related_Words
+grip,Gun_Related_Words
+muzzle,Gun_Related_Words
+gunslinger,Gun_Related_Words
+illegal,Illegal_Action_Words
+crime,Illegal_Action_Words
+criminal,Illegal_Action_Words
+offense,Illegal_Action_Words
+offender,Illegal_Action_Words
+felony,Illegal_Action_Words
+misdemeanor,Illegal_Action_Words
+theft,Illegal_Action_Words
+robbery,Illegal_Action_Words
+burglary,Illegal_Action_Words
+assault,Illegal_Action_Words
+fraud,Illegal_Action_Words
+scam,Illegal_Action_Words
+embezzlement,Illegal_Action_Words
+corruption,Illegal_Action_Words
+bribery,Illegal_Action_Words
+extortion,Illegal_Action_Words
+blackmail,Illegal_Action_Words
+kidnapping,Illegal_Action_Words
+abduction,Illegal_Action_Words
+arson,Illegal_Action_Words
+vandalism,Illegal_Action_Words
+hijacking,Illegal_Action_Words
+looting,Illegal_Action_Words
+smuggling,Illegal_Action_Words
+trafficking,Illegal_Action_Words
+poaching,Illegal_Action_Words
+forgery,Illegal_Action_Words
+counterfeit,Illegal_Action_Words
+money laundering,Illegal_Action_Words
+hacking,Illegal_Action_Words
+cybercrime,Illegal_Action_Words
+piracy,Illegal_Action_Words
+trespassing,Illegal_Action_Words
+violation,Illegal_Action_Words
+manslaughter,Illegal_Action_Words
+murder,Illegal_Action_Words
+assassination,Illegal_Action_Words
+terrorism,Illegal_Action_Words
+espionage,Illegal_Action_Words
+incitement,Illegal_Action_Words
+riot,Illegal_Action_Words
+resist arrest,Illegal_Action_Words
+battery,Illegal_Action_Words
+molestation,Illegal_Action_Words
+harassment,Illegal_Action_Words
+stalking,Illegal_Action_Words
+rape,Illegal_Action_Words
+prostitution,Illegal_Action_Words
+illegal trade,Illegal_Action_Words
+contraband,Illegal_Action_Words
+unlawful,Illegal_Action_Words
+detain,Illegal_Action_Words
+arrest,Illegal_Action_Words
+warrant,Illegal_Action_Words
+crime,Crime_Related_Words
+criminal,Crime_Related_Words
+offense,Crime_Related_Words
+offender,Crime_Related_Words
+felony,Crime_Related_Words
+misdemeanor,Crime_Related_Words
+theft,Crime_Related_Words
+robbery,Crime_Related_Words
+burglary,Crime_Related_Words
+assault,Crime_Related_Words
+battery,Crime_Related_Words
+fraud,Crime_Related_Words
+scam,Crime_Related_Words
+embezzlement,Crime_Related_Words
+corruption,Crime_Related_Words
+bribery,Crime_Related_Words
+extortion,Crime_Related_Words
+blackmail,Crime_Related_Words
+kidnapping,Crime_Related_Words
+abduction,Crime_Related_Words
+arson,Crime_Related_Words
+vandalism,Crime_Related_Words
+hijacking,Crime_Related_Words
+looting,Crime_Related_Words
+smuggling,Crime_Related_Words
+trafficking,Crime_Related_Words
+poaching,Crime_Related_Words
+forgery,Crime_Related_Words
+counterfeit,Crime_Related_Words
+money laundering,Crime_Related_Words
+hacking,Crime_Related_Words
+cybercrime,Crime_Related_Words
+piracy,Crime_Related_Words
+trespassing,Crime_Related_Words
+violation,Crime_Related_Words
+manslaughter,Crime_Related_Words
+murder,Crime_Related_Words
+assassination,Crime_Related_Words
+terrorism,Crime_Related_Words
+espionage,Crime_Related_Words
+incitement,Crime_Related_Words
+riot,Crime_Related_Words
+molestation,Crime_Related_Words
+harassment,Crime_Related_Words
+stalking,Crime_Related_Words
+rape,Crime_Related_Words
+prostitution,Crime_Related_Words
+illegal trade,Crime_Related_Words
+contraband,Crime_Related_Words
+unlawful,Crime_Related_Words
+detain,Crime_Related_Words
+arrest,Crime_Related_Words
+warrant,Crime_Related_Words
+investigation,Crime_Related_Words
+conviction,Crime_Related_Words
+imprisonment,Crime_Related_Words
+jail,Crime_Related_Words
+sentence,Crime_Related_Words
+parole,Crime_Related_Words
+probation,Crime_Related_Words
+suspect,Crime_Related_Words
+fugitive,Crime_Related_Words
+mugshot,Crime_Related_Words
+indictment,Crime_Related_Words
+lawbreaking,Crime_Related_Words
+war,War_Related_Words
+battle,War_Related_Words
+conflict,War_Related_Words
+combat,War_Related_Words
+military,War_Related_Words
+army,War_Related_Words
+navy,War_Related_Words
+airforce,War_Related_Words
+soldier,War_Related_Words
+troops,War_Related_Words
+attack,War_Related_Words
+invasion,War_Related_Words
+occupation,War_Related_Words
+retreat,War_Related_Words
+advance,War_Related_Words
+raid,War_Related_Words
+siege,War_Related_Words
+assault,War_Related_Words
+ambush,War_Related_Words
+airstrike,War_Related_Words
+bombing,War_Related_Words
+missile,War_Related_Words
+rocket,War_Related_Words
+nuclear,War_Related_Words
+weapon,War_Related_Words
+artillery,War_Related_Words
+firefight,War_Related_Words
+sniper,War_Related_Words
+gunfire,War_Related_Words
+casualty,War_Related_Words
+death,War_Related_Words
+injury,War_Related_Words
+wound,War_Related_Words
+prisoner,War_Related_Words
+hostage,War_Related_Words
+ceasefire,War_Related_Words
+truce,War_Related_Words
+peace,War_Related_Words
+resistance,War_Related_Words
+rebellion,War_Related_Words
+insurgency,War_Related_Words
+terrorism,War_Related_Words
+guerrilla,War_Related_Words
+revolt,War_Related_Words
+uprising,War_Related_Words
+massacre,War_Related_Words
+genocide,War_Related_Words
+mobilization,War_Related_Words
+defense,War_Related_Words
+deterrence,War_Related_Words
+declaration of war,War_Related_Words
+biological weapon,War_Related_Words
+chemical weapon,War_Related_Words
+shelling,War_Related_Words
+frontline,War_Related_Words
+minefield,War_Related_Words
+barracks,War_Related_Words
+militia,War_Related_Words
+ally,War_Related_Words
+enemy,War_Related_Words
+hostile,War_Related_Words
+command,War_Related_Words
+strategy,War_Related_Words
+tactics,War_Related_Words
+armistice,War_Related_Words

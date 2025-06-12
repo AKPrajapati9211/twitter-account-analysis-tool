@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Account Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Twitter Account Analyzer</h1>
+        
+        <div class="input-section">
+            <input type="text" id="username" placeholder="Enter Twitter username (e.g., realDonaldTrump)">
+            <button onclick="startAnalysis()">Analyze</button>
+            <div class="loader" id="loader"></div>
+            <div id="error" class="error"></div>
+        </div>
+
+        <div class="report-section" id="reportSection">
+            <h2>Analysis Report Preview</h2>
+            <div id="pdf-controls">
+                <button onclick="changePage(-1)">Previous</button>
+                <span>Page: <span id="page-num">1</span>/<span id="page-count">1</span></span>
+                <button onclick="changePage(1)">Next</button>
+                <button onclick="downloadReport()">Download Full Report</button>
+            </div>
+            <div id="pdf-viewer"></div>
+        </div>
+        
+        <div id="pdf-viewer">
+            <!-- Fallback message -->
+            <div id="pdf-fallback" style="display: none;">
+                <p>Preview unavailable. <button onclick="downloadReport()">Download Report</button></p>
+            </div>
+        </div>
+
+        
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.4.120/pdf.min.js"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
