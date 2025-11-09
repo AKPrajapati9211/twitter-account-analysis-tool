@@ -22,7 +22,7 @@ A web-based tool to analyze Twitter accounts, scrape tweets, detect threats, and
 1. Clone the repository:
    ```bash
    git clone https://github.com/AKPrajapati9211/twitter-analysis-tool.git
-   cd YOUR-REPO-NAME
+   cd twitter-account-analysis-tool
 
 
 2. Install dependencies:
